@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
 
-Hamlyn Symposium on Medical Robotics 2026 [:link:](https://www.hamlynsymposium.org/events/from-code-to-care-challenges-success-stories-and-the-future-directions-of-open-source-development-in-medical-robotics/    
+Hamlyn Symposium on Medical Robotics 2026 [:link:](https://www.hamlynsymposium.org/events/from-code-to-care-challenges-success-stories-and-the-future-directions-of-open-source-development-in-medical-robotics)    
 26th June 2026   
 London, UK   
 
@@ -13,8 +13,9 @@ London, UK
 Join our discord server
 https://discord.gg/P6wB44Ftft
 
-Also we have discussions to Ask questions you’re wondering about; Share ideas; Engage with other community members; Welcome others and are open-minded. 
-https://github.com/oss-for-surg-med-ai-tech/workshop-hamlyn2026/discussions
+We also host discussions where you can: ask questions, share ideas, engage with other community members, and help welcome new contributors in an open and collaborative environment.
+
+Discussion forum: [Workshop discussions](https://github.com/oss-in-surgical-robotics/workshop-hamlyn2026/discussions)
 
 Remember that this is a community we build together 💪.
 
