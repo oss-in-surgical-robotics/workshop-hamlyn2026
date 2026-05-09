@@ -23,9 +23,9 @@ See below steps and a figure.
     **Session**: From Code to Care: Challenges, Success Stories, and the Future Directions of Open-Source development in Medical Robotics
 7. Please feel free any of the additional informaion to your poster: “recommended information”, “funding”, “alternative identifiers”, “related work”, “references”, “publishing infomraiton” and “domain specific fields”.
 8. Please share your doi submission in the email thred.
-9. Many thanks for your submission, please do not hesiate to reach out to Miguel Xochicale m.xochicale@ucl.ac.uk if there is anythig we can help! 
+9. Many thanks for your submission, please do not hesiate to reach out to poster chairs m.xochicale@ucl.ac.uk and r.gollifer@ucl.ac.uk if there is anythig we can help! 
 
-![fig](../docs/figs/zenodo-poster-submission.png)
+![fig](../../docs/figs/zenodo-poster-submission.png)
  
 ### Poster Size and Allocation
 We have an allocation of 8 poster boards located in the Marquee. Each board is double sided allowing for a max of 16 A0 portrait size posters. In terms of the physical poster, the poster dimensions must comply with the A0 PORTRAIT standard: Maximum height: 118.9 cm (46.8 inches) Maximum width:  84.1 cm (33.1 inches). You can also use A1 or A2 size if that is more portable size for you. The poster should NOT be laminated. Mounting materials will be provided at the poster board onsite. 
@@ -38,5 +38,6 @@ We have Spotlight sessions for posters at 12:20, so please prepare a one-minute 
 
 ### Program Chairs and Contact
 * Dr [Miguel Xochicale](https://mxochicale.github.io/), University College London
+* Dr Ruaridh Gollifer, University College London
 
 Please do not hesiate to reach out Miguel Xochicale m.xochicale@ucl.ac.uk if there is anythig we can help! 
