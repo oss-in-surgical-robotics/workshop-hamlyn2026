@@ -37,7 +37,7 @@ If you are presenter, please make reach go the registration desk at 08:30 and on
 We have Spotlight sessions for posters at 12:20, so please prepare a one-minute presentation of your poster in any format that suits you. This could be simply projecting your poster, using slides with videos or demos, or even bringing portable hardware if possible. Please remember that, due to a tight schedule, presentations must be strictly limited to one minute. You’ll have further time during lunch or at the poster marquee to discuss your work in more detail.
 
 ### Program Chairs and Contact
-* Dr [Miguel Xochicale](https://mxochicale.github.io/), University College London
-* Dr Ruaridh Gollifer, University College London
+* Miguel Xochicale, University College London
+* Ruaridh Gollifer, University College London
 
-Please do not hesiate to reach out Miguel Xochicale m.xochicale@ucl.ac.uk if there is anythig we can help! 
+Please do not hesiate to reach out to poster chairs m.xochicale@ucl.ac.uk and r.gollifer@ucl.ac.uk if there is anythig we can help!
