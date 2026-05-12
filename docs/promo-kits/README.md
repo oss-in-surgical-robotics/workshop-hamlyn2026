@@ -6,14 +6,15 @@
  📅 26th June | 📍 London | 🏛️ Hamlyn Symposium 
  
 This is a truly special event, bringing together 👥 speakers and panellists from industry, academia, and regulatory fields. We are looking forward to insightful discussions, engaging panel sessions, meaningful collaborations, and excellent networking opportunities. 
-Let's advance Medical Surgical Robotics together using open-source technologies.
+Let’s advance medical and surgical robotics together through open-source technologies.
 
 📢 Call for Posters: 
-Submit your abstract by 5th June for a chance to showcase your work to our participants, spark new collaborations, and be in the running to win a 🏆 poster award! 
-See further details [here](TODO)
+Submit your abstract by 29 May for a chance to showcase your work to our participants, spark new collaborations, and be in the running to win a 🏆 travel award or poster award!
 
-🎟️ Tickets are still available, including student discounts (registration will close 11:59 pm BST Sunday 14th June, 2026)!
-Don't miss out – we'd love to have you with us! 💬 Registration are here at the bottom: https://www.hamlynsymposium.org/events/from-code-to-care-challenges-success-stories-and-the-future-directions-of-open-source-development-in-medical-robotics/
+🎟️ Tickets are available, including student discounts (registration will close 11:59 pm BST Sunday 14th June, 2026)!
+Don't miss out, we'd love to have you with us! 💬 Registration are here: 
+https://www.hamlynsymposium.org/events/from-code-to-care-challenges-success-stories-and-the-future-directions-of-open-source-development-in-medical-robotics/
+
 
 🏗 Building a vibrant Open-Source community together  
 Help us continue building a vibrant community by sharing workshop materials via our GitHub repositories (https://github.com/oss-in-surgical-robotics), including the website https://oss-in-surgical-robotics.github.io/website/

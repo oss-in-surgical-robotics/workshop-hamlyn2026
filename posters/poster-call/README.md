@@ -5,7 +5,8 @@ Calling all attendees to share their insights and contributions through poster p
 
 We welcome innovative work from across academia, healthcare, industry, and the open-source community.
 
-Selected posters will receive financial support for travel and subsistence. We will also recognise excellence through awards for the best poster and runner-up submissions. In addition, all submissions will have the opportunity to contribute to open-review conference proceedings.
+Two to four selected abstracts will receive financial support for travel and subsistence, depending on location and available budget.
+We will also recognise excellence through awards for the best poster and runner-up submissions. 
 
 Topics include, but are not limited to:
 
@@ -29,23 +30,12 @@ Workshop: 26 June 2026
 
 Abstract submission. 
 
-Please use the following templates to prepare your abstract and OpenReview submission. We encourage open-source participation using open-review; however, we also want to ensure that authors have the option for private submissions by sending abstracts to m.xochicale@ucl.ac.uk and r.gollifer@ucl.ac.uk
+Please use the following templates to prepare your abstract submission. We encourage open-source participation using open-review; however, we also want to ensure that authors have the option for private submissions by sending abstracts to m.xochicale@ucl.ac.uk and r.gollifer@ucl.ac.uk
 
-See word and latex templates here 
+See word and latex templates [here](../templates/)
 
-You are also welcome to use our Overleaf templates, which can be accessed by anyone using the following link 
+You are also welcome to use our [Overleaf templates](https://www.overleaf.com/read/tdshfrwxmggz#33669e)
 
-Submission link: https://openreview.net/group?id=hamlynsymposium.org/Hamlyn_Symposium/2026 
-
- 
-
-Poster submission 
-
-Posters can either be submitted to Zenodo for open access or sent privately by email to m.xochicale@ucl.ac.uk and r.gollifer@ucl.ac.uk
-
-Poster presentation
-
-See [Poster Size and Allocation](../poster-submission/README.md#poster-size-and-allocation) and [Poster Spotlights](../poster-submission/README.md#poster-spotlights) for further details.
 
 Questions.  
 

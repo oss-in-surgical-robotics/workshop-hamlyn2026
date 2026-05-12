@@ -1,10 +1,13 @@
 # Poster
 
+
 ## Abstract templates
 * See word and latex templates [here](templates)
 * You can also make use of our overleaf templates which anyone with this [link](https://www.overleaf.com/read/tdshfrwxmggz#33669e) can view this project
 
-## Poster presentation details
+## Poster submission 
+Posters can either be submitted to Zenodo for open access or sent privately by email to m.xochicale@ucl.ac.uk and r.gollifer@ucl.ac.uk
+
 ### Zenodo DOI's for accepted poster and two-page abstracts
 For authors who wish to make their work publicly available, we kindly ask that you upload your posters to Zenodo. This will provide a formal citation option for your work, such as a DOI.
 
