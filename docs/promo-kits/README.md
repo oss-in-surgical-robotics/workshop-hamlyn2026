@@ -2,26 +2,46 @@
 
 ## Message template 
 
-✨ Join us for a full-day workshop on “From Code to Care: Challenges, Success Stories, and the Future Directions of Open-Source development in Medical Robotics” 
- 📅 26th June | 📍 London | 🏛️ Hamlyn Symposium 
- 
-This is a truly special event, bringing together 👥 speakers and panellists from industry, academia, and regulatory fields. We are looking forward to insightful discussions, engaging panel sessions, meaningful collaborations, and excellent networking opportunities. 
-Let’s advance medical and surgical robotics together through open-source technologies.
+✨ Join us for a full-day workshop
+From Code to Care: Challenges, Success Stories, and Future Directions of Open-Source Medical Robotics
 
-📢 Call for Posters: 
-Submit your abstract by 29 May for a chance to showcase your work to our participants, spark new collaborations, and be in the running to win a 🏆 travel award or poster award!
+📅 26 June 2026 | 📍 London | 🏛️ Hamlyn Symposium
 
-🎟️ Tickets are available, including student discounts (registration will close 11:59 pm BST Sunday 14th June, 2026)!
-Don't miss out, we'd love to have you with us! 💬 Registration are here: 
+
+We are excited to welcome you to a unique event bringing together leading voices from industry and academia in medical and surgical robotics. Expect a day of insightful talks, dynamic panel discussions, and valuable networking with researchers, engineers, and clinicians shaping the future of the field.
+
+This workshop is a great opportunity to:
+* Explore the latest advances in open-source medical robotics
+* Hear real-world success stories and ongoing challenges
+* Connect with a growing international community
+* Spark collaborations across academia and industry
+
+📢 Call for Posters (Now Open!)
+Submit your abstract by 29 May 2026 for a chance to:
+* Present your work to an engaged, interdisciplinary audience
+* Build new collaborations
+* Receive 🏆 travel awards and best poster prizes
+
+
+🎟️ Registration Open
+Tickets are available, including student discounts.
+Registration closes 11:59 pm BST, Sunday 14 June 2026.
+
+👉 Register & submit here:
 https://www.hamlynsymposium.org/events/from-code-to-care-challenges-success-stories-and-the-future-directions-of-open-source-development-in-medical-robotics/
 
 
-🏗 Building a vibrant Open-Source community together  
-Help us continue building a vibrant community by sharing workshop materials via our GitHub repositories (https://github.com/oss-in-surgical-robotics), including the website https://oss-in-surgical-robotics.github.io/website/
-Everyone is welcome to join our Discord server (https://discord.gg/P6wB44Ftft) for networking, discussions, and event updates. 
-Recorded talks will also be available on YouTube.
+🤝 Join the community
+We are building a vibrant open-source ecosystem in surgical robotics. Stay connected:
 
-#OpenSource #HealthTech #AI #Surgery #Collaboration #HamlynSymposium #HSM26 #Telesurgery #MedicalRobotics #SurgicalRobotics
+GitHub: [OSS in Surgical Robotics GitHub](https://github.com/oss-in-surgical-robotics)
+Community site: [Project Website](https://oss-in-surgical-robotics.github.io/website/)
+Discord: [Join our Discord](https://discord.gg/P6wB44Ftft)
+Recorded talks will also be shared on YouTube
+
+Let’s advance medical and surgical robotics together through open-source innovation.
+
+#OpenSource #HealthTech #AI #Surgery #Collaboration #HamlynSymposium #HSM26 #MedicalRobotics #SurgicalRobotics
 
 
 ## Poster extension (re-positng/sharing)
@@ -48,6 +68,7 @@ Whether you're a developer, researcher, clinician, or just curious — come join
 
 #OpenSource #HealthTech #AI #Surgery #Collaboration #HamlynSymposium #HSM26 #Telesurgery #MedicalRobotics #SurgicalRobotics
 
+## Promo kit images
 Feel free to use this promo kits in your massages
-* [promo-kit-horizontal.png](TODO)
-* [promo-kit-vertical.png](TODO)
+
+![promo-kit-vertical.png](../figs/promo-kit-vertical.png)
