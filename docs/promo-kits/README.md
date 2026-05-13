@@ -2,46 +2,91 @@
 
 ## Message template 
 
+
 ✨ Join us for a full-day workshop
+
 From Code to Care: Challenges, Success Stories, and Future Directions of Open-Source Medical Robotics
+
+
 
 📅 26 June 2026 | 📍 London | 🏛️ Hamlyn Symposium
 
 
+
 We are excited to welcome you to a unique event bringing together leading voices from industry and academia in medical and surgical robotics. Expect a day of insightful talks, dynamic panel discussions, and valuable networking with researchers, engineers, and clinicians shaping the future of the field.
 
+
+
 This workshop is a great opportunity to:
+
 * Explore the latest advances in open-source medical robotics
+
 * Hear real-world success stories and ongoing challenges
+
 * Connect with a growing international community
+
 * Spark collaborations across academia and industry
 
+
+
 📢 Call for Posters (Now Open!)
+
 Submit your abstract by 29 May 2026 for a chance to:
+
 * Present your work to an engaged, interdisciplinary audience
+
 * Build new collaborations
+
 * Receive 🏆 travel awards and best poster prizes
 
 
+
 🎟️ Registration Open
+
 Tickets are available, including student discounts.
+
 Registration closes 11:59 pm BST, Sunday 14 June 2026.
 
+
+
 👉 Register & submit here:
-https://www.hamlynsymposium.org/events/from-code-to-care-challenges-success-stories-and-the-future-directions-of-open-source-development-in-medical-robotics/
+
+https://lnkd.in/eAGhrbeJ
+
+
+
 
 
 🤝 Join the community
-We are building a vibrant open-source ecosystem in surgical robotics. Stay connected:
 
-GitHub: [OSS in Surgical Robotics GitHub](https://github.com/oss-in-surgical-robotics)
-Community site: [Project Website](https://oss-in-surgical-robotics.github.io/website/)
-Discord: [Join our Discord](https://discord.gg/P6wB44Ftft)
-Recorded talks will also be shared on YouTube
+We are building a vibrant open-source community in surgical/medical robotics. Stay connected:
+
+* GitHub: [OSS in Surgical Robotics GitHub](https://lnkd.in/eiNnMdB7)
+
+* Workshop site: [Project Website](https://lnkd.in/eKUbxnQg)
+
+* Discord: [Join our Discord](https://lnkd.in/e42uJHEj)
+
+* Recorded talks will also be shared on YouTube
+
+
+
+🙏 Many thanks Hamlyn Centre for Robotic Surgery team for supporting this event and to our sponsors AIRS Inc and Real-Time Innovations (RTI) for their support. 
+
+
+
+🚀 If other organisations are interested in sponsoring us to help bring talented researchers to the workshop, please feel free to reach out.
+
+
 
 Let’s advance medical and surgical robotics together through open-source innovation.
 
+
+
 #OpenSource #HealthTech #AI #Surgery #Collaboration #HamlynSymposium #HSM26 #MedicalRobotics #SurgicalRobotics
+
+
+https://www.linkedin.com/posts/activity-7460385894550626304-kRFD
 
 
 ## Poster extension (re-positng/sharing)
