@@ -91,17 +91,26 @@ https://www.linkedin.com/posts/activity-7460385894550626304-kRFD
 
 ## Poster extension (re-positng/sharing)
 
+📢 Extended Call for Abstracts: From Code to Care Workshop @ #HSM26 Submission deadline: 11 June 2026, 11:59 AM (UTC+0)
 
-📢 Exciting news! The abstract submission deadline for our full-day workshop, "From Code to Care: Challenges, Success Stories, and the Future Directions of Open-Source development in Medical Robotics", has been extended to 12 June 2026, 12:00 PM (UTC+0).
+This extension gives you more time to share your latest research, software, tools, and experiences and contribute to a critical discussion on how open-source technologies are transforming healthcare.
 
-🎯 Don’t miss this unique opportunity to connect, collaborate, and innovate! Spaces are limited and going fast, so be sure to register by 15 June to secure your place.
+Why join us?
+Innovate & Collaborate: Connect with the global experts defining the future of open-source medical robotics.
+Get Recognized: Showcase your research for a chance to win Best Poster Prizes.
+Access Support: Apply for travel awards designed to bring the brightest minds to London.
 
-⚠️ Please note: There will be no on-site registration, so book early to avoid disappointment.
+Key Dates:
+🗓 Extended Abstract Submission: 11 June 2026, 11:59 AM (UTC+0)
+🗓 Workshop Registration: 15 June 2026
+🗓 Workshop Event: 26 June 2026
 
-👉 Sign up today:
+⚠️ Important: Space is strictly limited. There will be no on-site registration, so please secure your spot online by 15 June.
+
+👉 Submit your abstract and register here: 
 https://www.hamlynsymposium.org/events/from-code-to-care-challenges-success-stories-and-the-future-directions-of-open-source-development-in-medical-robotics/
 
-#HamlynSymposium #OpenSource #BiomedicalTech #SurgicalInnovation #AI #Collaboration #CallForPosters #LondonEvents #HSM26 #MedicalRobotics #SurgicalRobotics
+#MedicalRobotics #OpenSource #RoboticsResearch #HealthTech #Innovation #CallForPapers #HamlynSymposium #SurgicalInnovation #AI #Collaboration #CallForPosters #LondonEvents #HSM26
 
 ## Social media message template with hashtags
 
