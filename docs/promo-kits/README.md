@@ -93,7 +93,7 @@ https://www.linkedin.com/posts/activity-7460385894550626304-kRFD
 
 📢 Extended Call for Abstracts: From Code to Care Workshop @ #HSM26 Submission deadline: 11 June 2026, 11:59 AM (UTC+0)
 
-This extension gives you more time to share your latest research, software, tools, and experiences and contribute to a critical discussion on how open-source technologies are transforming healthcare.
+This extension gives you more time to share your latest research, software, tools, and experiences and contribute to a critical discussion on how open-source technologies are transforming medical robotics.
 
 Why join us?
 Innovate & Collaborate: Connect with the global experts defining the future of open-source medical robotics.
@@ -102,10 +102,10 @@ Access Support: Apply for travel awards designed to bring the brightest minds to
 
 Key Dates:
 🗓 Extended Abstract Submission: 11 June 2026, 11:59 AM (UTC+0)
-🗓 Workshop Registration: 15 June 2026
+🗓 Workshop Registration: 14 June 2026
 🗓 Workshop Event: 26 June 2026
 
-⚠️ Important: Space is strictly limited. There will be no on-site registration, so please secure your spot online by 15 June.
+⚠️ Important: Space is strictly limited. There will be no on-site registration, so please secure your spot online by 14 June.
 
 👉 Submit your abstract and register here: 
 https://www.hamlynsymposium.org/events/from-code-to-care-challenges-success-stories-and-the-future-directions-of-open-source-development-in-medical-robotics/
